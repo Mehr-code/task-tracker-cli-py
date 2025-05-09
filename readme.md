@@ -123,9 +123,10 @@ All your tasks are stored in `tasks.json` in the current directory. Example:
 
 Free to use for educational and personal projects ✌️
 
-```
 
 ---
+
+```
 
 
 
