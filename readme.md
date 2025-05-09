@@ -1,5 +1,4 @@
 
-````markdown
 # 📝 Task CLI – Simple Command-Line Task Manager
 
 A lightweight and pure Python command-line tool to manage your tasks easily — without any external libraries. for https://roadmap.sh/projects/task-tracker
@@ -125,8 +124,5 @@ Free to use for educational and personal projects ✌️
 
 
 ---
-
-```
-
 
 
